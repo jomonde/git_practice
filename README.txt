@@ -1,1 +1,2 @@
-Hello Git and Githuba
+Hello Git and Github
+My name is Jonan.
